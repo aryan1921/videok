@@ -1,2 +1,2 @@
-# Zoom
+# VideOK
 A full stack video conferencing web application.
